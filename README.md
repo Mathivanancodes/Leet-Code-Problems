@@ -98,12 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2793-count-the-number-of-complete-components](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
 | ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 ## Depth-First Search
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2793-count-the-number-of-complete-components](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2793-count-the-number-of-complete-components) |
+## Dynamic Programming
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Shortest Path
+|  |
+| ------- |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->

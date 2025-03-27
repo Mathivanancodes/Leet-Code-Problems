@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
+| [3817-maximum-containers-on-a-ship](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3817-maximum-containers-on-a-ship) |
 ## String
 |  |
 | ------- |

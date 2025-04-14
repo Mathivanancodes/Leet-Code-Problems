@@ -18,5 +18,5 @@ class Solution {
         }
 
         return goodTriplets;
-    
+    }
 }

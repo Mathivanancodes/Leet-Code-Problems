@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1656-count-good-triplets](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2478-longest-nice-subarray) |
@@ -194,5 +195,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1656-count-good-triplets](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
 | [3548-find-the-count-of-good-integers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3548-find-the-count-of-good-integers) |
 <!---LeetCode Topics End-->

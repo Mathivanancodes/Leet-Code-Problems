@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2665-minimum-time-to-repair-cars](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2681-put-marbles-in-bags](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2280-count-good-triplets-in-an-array](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2690-house-robber-iv) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3643-zero-array-transformation-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3643-zero-array-transformation-ii) |
 ## Prefix Sum
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2681-put-marbles-in-bags](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2681-put-marbles-in-bags) |
+| [2699-count-the-number-of-fair-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3001-apply-operations-to-maximize-score) |
 | [3430-count-days-without-meetings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3430-count-days-without-meetings) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |

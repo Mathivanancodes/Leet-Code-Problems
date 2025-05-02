@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
+| [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
 ## Binary Search
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |

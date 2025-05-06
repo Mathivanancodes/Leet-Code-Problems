@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1656-count-good-triplets](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1656-count-good-triplets) |
+| [2048-build-array-from-permutation](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2048-build-array-from-permutation) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2249-count-the-hidden-sequences](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2249-count-the-hidden-sequences) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
@@ -274,4 +275,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
+## Simulation
+|  |
+| ------- |
+| [2048-build-array-from-permutation](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2048-build-array-from-permutation) |
 <!---LeetCode Topics End-->

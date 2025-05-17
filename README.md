@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0075-sort-colors](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0075-sort-colors) |
 | [0238-product-of-array-except-self](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0075-sort-colors) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2215-finding-3-digit-even-numbers) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |

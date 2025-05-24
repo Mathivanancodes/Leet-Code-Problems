@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3194-find-words-containing-character) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3321-type-of-triangle) |

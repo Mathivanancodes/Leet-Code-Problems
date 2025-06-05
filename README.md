@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [1058-lexicographically-smallest-equivalent-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |

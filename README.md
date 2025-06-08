@@ -248,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0386-lexicographical-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2793-count-the-number-of-complete-components](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2793-count-the-number-of-complete-components) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -380,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->

@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Greedy
 |  |
 | ------- |

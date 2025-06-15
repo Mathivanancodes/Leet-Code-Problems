@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1500-count-largest-group) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3001-apply-operations-to-maximize-score](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3001-apply-operations-to-maximize-score) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
+| [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2681-put-marbles-in-bags](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2681-put-marbles-in-bags) |

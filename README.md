@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2478-longest-nice-subarray](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2478-longest-nice-subarray) |
 | [2479-meeting-rooms-iii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2280-count-good-triplets-in-an-array](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2280-count-good-triplets-in-an-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2665-minimum-time-to-repair-cars](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2665-minimum-time-to-repair-cars) |
 | [2690-house-robber-iv](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2690-house-robber-iv) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
@@ -295,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2478-longest-nice-subarray](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2856-count-complete-subarrays-in-an-array) |

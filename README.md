@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0945-snakes-and-ladders](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2478-longest-nice-subarray](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2478-longest-nice-subarray) |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0416-partition-equal-subset-sum](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
+| [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |

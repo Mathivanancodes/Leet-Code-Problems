@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0073-set-matrix-zeroes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0334-increasing-triplet-subsequence) |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0118-pascals-triangle](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0806-domino-and-tromino-tiling](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0806-domino-and-tromino-tiling) |

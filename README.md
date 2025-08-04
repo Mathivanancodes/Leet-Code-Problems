@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0945-snakes-and-ladders) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
+| [0940-fruit-into-baskets](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -306,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0940-fruit-into-baskets](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0940-fruit-into-baskets) |
 | [1813-maximum-erasure-value](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1813-maximum-erasure-value) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2394-count-subarrays-with-score-less-than-k) |

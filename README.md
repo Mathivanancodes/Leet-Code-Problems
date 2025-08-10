@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
 | [0826-soup-servings](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0826-soup-servings) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2400-minimum-score-after-removals-on-a-tree) |
@@ -342,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Union Find

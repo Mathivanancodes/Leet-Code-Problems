@@ -1,41 +1,84 @@
 class Solution {
-    final double EPS = 1e-6;
-
-    public boolean judgePoint24(int[] cards) {
-        List<Double> nums = new ArrayList<>();
-        for (int n : cards) nums.add((double) n);
-        return dfs(nums);
+    private double value(double n1, char op, double n2) {
+        if (op == '+') return n1 + n2;
+        if (op == '-') return n1 - n2;
+        if (op == '*') return n1 * n2;
+        if (op == '/') {
+            if (Math.abs(n2) < 1e-6) return 1e9;
+            return n1 / n2;
+        }
+        return 1e9;
     }
 
-    private boolean dfs(List<Double> nums) {
-        if (nums.size() == 1) {
-            return Math.abs(nums.get(0) - 24.0) < EPS;
-        }
-        for (int i = 0; i < nums.size(); i++) {
-            for (int j = 0; j < nums.size(); j++) {
-                if (i == j) continue;
-                List<Double> next = new ArrayList<>();
-                for (int k = 0; k < nums.size(); k++) {
-                    if (k != i && k != j) next.add(nums.get(k));
-                }
-                for (double val : compute(nums.get(i), nums.get(j))) {
-                    next.add(val);
-                    if (dfs(next)) return true;
-                    next.remove(next.size() - 1);
-                }
-            }
-        }
+    private boolean isValid(double ans) {
+        return Math.abs(ans - 24.0) < 1e-6;
+    }
+
+    private boolean evaluate(char op1, char op2, char op3, int[] cards) {
+        double ans;
+
+        // ((_ _)_)_
+        ans = value(value(value(cards[0], op1, cards[1]), op2, cards[2]), op3, cards[3]);
+        if (isValid(ans)) return true;
+
+        // (_ _) (_ _)
+        ans = value(value(cards[0], op1, cards[1]), op2, value(cards[2], op3, cards[3]));
+        if (isValid(ans)) return true;
+
+        // (_(_ _))_
+        ans = value(value(cards[0], op1, value(cards[1], op2, cards[2])), op3, cards[3]);
+        if (isValid(ans)) return true;
+
+        // _(_(_ _))
+        ans = value(cards[0], op1, value(value(cards[1], op2, cards[2]), op3, cards[3]));
+        if (isValid(ans)) return true;
+
+        // _(_(_ _))
+        ans = value(cards[0], op1, value(cards[1], op2, value(cards[2], op3, cards[3])));
+        if (isValid(ans)) return true;
+
         return false;
     }
 
-    private List<Double> compute(double a, double b) {
-        List<Double> res = new ArrayList<>();
-        res.add(a + b);
-        res.add(a - b);
-        res.add(b - a);
-        res.add(a * b);
-        if (Math.abs(b) > EPS) res.add(a / b);
-        if (Math.abs(a) > EPS) res.add(b / a);
-        return res;
+    public boolean judgePoint24(int[] cards) {
+        char[] ops = {'+', '-', '*', '/'};
+        Arrays.sort(cards);
+
+        do {
+            for (char op1 : ops) {
+                for (char op2 : ops) {
+                    for (char op3 : ops) {
+                        if (evaluate(op1, op2, op3, cards)) {
+                            return true;
+                        }
+                    }
+                }
+            }
+        } while (nextPermutation(cards));
+
+        return false;
+    }
+
+    // Helper: next_permutation (like in C++)
+    private boolean nextPermutation(int[] nums) {
+        int n = nums.length;
+        int i = n - 2;
+        while (i >= 0 && nums[i] >= nums[i + 1]) i--;
+        if (i < 0) return false;
+        int j = n - 1;
+        while (nums[j] <= nums[i]) j--;
+        swap(nums, i, j);
+        reverse(nums, i + 1, n - 1);
+        return true;
+    }
+
+    private void swap(int[] nums, int i, int j) {
+        int t = nums[i];
+        nums[i] = nums[j];
+        nums[j] = t;
+    }
+
+    private void reverse(int[] nums, int i, int j) {
+        while (i < j) swap(nums, i++, j--);
     }
 }

@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3817-maximum-containers-on-a-ship) |
+| [3830-find-closest-person](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/3830-find-closest-person) |
 ## String
 |  |
 | ------- |

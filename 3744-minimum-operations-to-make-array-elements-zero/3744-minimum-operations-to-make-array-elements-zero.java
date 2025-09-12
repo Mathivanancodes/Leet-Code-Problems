@@ -1,20 +1,23 @@
 class Solution {
+    private long stepsum(long n) {
+        if (n <= 0) return 0;
+        long res = 0, base = 1, step = 1;
+        while (base <= n) {
+            long cnt = Math.min(n, base * 4 - 1) - base + 1;
+            res += cnt * step;
+            base *= 4;
+            step++;
+        }
+        return res;
+    }
+
     public long minOperations(int[][] queries) {
         long ans = 0;
-        long[] p = new long[16];
-        p[0] = 1;
-
-        // Precompute powers of 4 up to 4^15
-        for (int i = 1; i < 16; i++) p[i] = p[i - 1] * 4;
-
         for (int[] q : queries) {
-            long l = q[0], r = q[1], sum = 0;
-            // Iterate over powers of 4 to compute operations
-            for (int t = 1; t <= 15; t++) {
-                long L = Math.max(l, p[t - 1]);
-                long R = Math.min(r, p[t] - 1);
-                if (L <= R) sum += t * (R - L + 1);
-            }ans += (sum + 1) / 2;
-        }return ans;
+            long l = q[0], r = q[1];
+            long total = stepsum(r) - stepsum(l - 1);
+            ans += (total + 1) / 2;
+        }
+        return ans;
     }
 }

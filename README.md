@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0679-24-game](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0679-24-game) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0135-candy) |
 | [0238-product-of-array-except-self](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0416-partition-equal-subset-sum) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -289,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
@@ -328,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2308-divide-array-into-equal-pairs) |
@@ -484,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0900-reordered-power-of-2](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |

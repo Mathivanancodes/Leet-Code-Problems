@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0009-palindrome-number) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0231-power-of-two](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0342-power-of-four) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0038-count-and-say](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0038-count-and-say) |
 | [0151-reverse-words-in-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0166-fraction-to-recurring-decimal) |
 | [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |

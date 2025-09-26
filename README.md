@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0679-24-game) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0135-candy) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0797-rabbits-in-forest](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0797-rabbits-in-forest) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0165-compare-version-numbers) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0345-reverse-vowels-of-a-string) |
+| [0611-valid-triangle-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0768-partition-labels](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0768-partition-labels) |
 | [0868-push-dominoes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0868-push-dominoes) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
+| [0611-valid-triangle-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
@@ -495,6 +499,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0900-reordered-power-of-2) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |

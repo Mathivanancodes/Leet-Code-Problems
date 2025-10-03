@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0334-increasing-triplet-subsequence) |
 | [0368-largest-divisible-subset](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0368-largest-divisible-subset) |
+| [0407-trapping-rain-water-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0498-diagonal-traverse](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -456,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0945-snakes-and-ladders](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0945-snakes-and-ladders) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
@@ -537,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1917-maximum-average-pass-ratio](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/1917-maximum-average-pass-ratio) |
 | [2023-design-movie-rental-system](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2023-design-movie-rental-system) |
@@ -553,6 +556,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0073-set-matrix-zeroes) |
+| [0407-trapping-rain-water-ii](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/0945-snakes-and-ladders) |
 | [2588-maximum-number-of-points-from-grid-queries](https://github.com/Mathivanancodes/Leet-Code-Problems/tree/master/2588-maximum-number-of-points-from-grid-queries) |
